@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Titan Framework\n"
+"POT-Creation-Date: 2014-02-26 22:38+0800\n"
+"PO-Revision-Date: 2014-03-30 14:09+0400\n"
+"Last-Translator: Владимир Петрозаводский <petrozavodsky@gmail.com>\n"
+"Language-Team: Gambit <bf.intal@gambit.ph>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class-admin-panel.php:268
+msgid "Settings saved."
+msgstr "Настройки сохранены"
+
+#: ../class-admin-panel.php:270
+msgid "Settings reset to default."
+msgstr "Настроикм сброшены на дефолтные"
+
+#: ../class-meta-box.php:35 ../class-theme-customizer-section.php:27
+msgid "More Options"
+msgstr "Дополнительные настройки"
+
+#: ../class-option-save.php:20
+msgid "Save Changes"
+msgstr "Изминения сохранены"
+
+#: ../class-option-save.php:23
+msgid "Reset to Default"
+msgstr "Установить но умолчанию"
+
+#: ../class-option-select-categories.php:37
+#: ../class-option-select-categories.php:104
+#: ../class-option-select-pages.php:30 ../class-option-select-posts.php:38
+#: ../class-option-select-posts.php:106
+msgid "Select"
+msgstr "Выбрать"
+
+#: ../class-option-select-googlefont.php:54
+msgid "Ultra-light"
+msgstr "Очень-очень тонкий"
+
+#: ../class-option-select-googlefont.php:57
+msgid "Light"
+msgstr "Тонкий"
+
+#: ../class-option-select-googlefont.php:60
+msgid "Book"
+msgstr "Книжный"
+
+#: ../class-option-select-googlefont.php:63
+msgid "Medium"
+msgstr "Средний"
+
+#: ../class-option-select-googlefont.php:66
+msgid "Semi-Bold"
+msgstr "Полужирный"
+
+#: ../class-option-select-googlefont.php:69
+msgid "Bold"
+msgstr "Жирный"
+
+#: ../class-option-select-googlefont.php:72
+msgid "Extra-Bold"
+msgstr "Очень жирный"
+
+#: ../class-option-select-googlefont.php:75
+msgid "Ultra-Bold"
+msgstr "Очень-очень жирный"
+
+#: ../class-option-select-googlefont.php:78
+msgid "Regular"
+msgstr "Обычный"
+
+#: ../class-option-upload.php:34
+msgid "Upload"
+msgstr "Загрузить"
+
+#: ../class-option.php:35
+#, php-format
+msgid "Option type or extended class %s does not exist."
+msgstr "Тип опции  или наследник класса %s  не существует."
+
+#: ../class-titan-framework.php:79
+#, php-format
+msgid "All option IDs must be unique. The id %s has been used multiple times."
+msgstr ""
+"Все  ID опций Должны быть уникальны. Id %s уже использовался раньше, "
+"выберите другой."
+
+#: ../class-titan-framework.php:310 ../class-titan-framework.php:345
+#, php-format
+msgid ""
+"Wrong usage of %s, this should be called inside a hook or from within a "
+"theme file."
+msgstr ""
+"Не верное использование  %s, это нужно использовать применять внутри файлов "
+"шаблна либо через хуки."
+
+#: ../titan-framework.php:122
+msgid "Documentation"
+msgstr "Документация"
+
+#: ../titan-framework.php:126
+msgid "GitHub Repo"
+msgstr "Репозиторий GitHub"
+
+# Вольный перевод , "для дома для семьи".
+#: ../titan-framework.php:130
+#, fuzzy
+msgid "Issue Tracker"
+msgstr "Трекер ошибок"
